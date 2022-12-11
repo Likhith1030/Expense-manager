@@ -1,3 +1,3 @@
-# My-Expenses
+# Expenses💰
 
 
